@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Editor / IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*~
+
+# Secrets und lokale Konfiguration (API-Keys, LLM-Zugangsdaten)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs und temporäre Dateien
+*.log
+logs/
+tmp/
+.cache/
+
+# Hochgeladene und erzeugte Dokumente (können personenbezogene Daten enthalten)
+uploads/
+storage/
+data/
+
+# Build- und Abhängigkeitsordner (Technologie noch offen)
+node_modules/
+dist/
+build/
+target/
+out/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+coverage/
+.coverage
+htmlcov/
