@@ -58,6 +58,10 @@ Technologieentscheidungen (Sprache, Framework, LLM-Anbieter) sind bewusst **noch
 |---|---|
 | [`docs/requirements.md`](docs/requirements.md) | User Stories mit Akzeptanzkriterien, funktionale und nichtfunktionale Anforderungen, Priorisierung, Abhängigkeiten, Konsistenzprüfung |
 | [`docs/mvp.md`](docs/mvp.md) | MVP-Anwendungsfall, enthaltene und ausgeschlossene Funktionen, Erfolgskriterien |
+| [`docs/architecture.md`](docs/architecture.md) | Architekturüberblick, Variantenvergleich, Technologieentscheidungen, Datenmodell, API-Design und AI-Review |
+| [`docs/hosting.md`](docs/hosting.md) | Hosting-Alternativen, Kostenvergleich und Handlungsempfehlung |
+| [`docs/adr/ADR-001-modular-monolith.md`](docs/adr/ADR-001-modular-monolith.md) | ADR zur Entscheidung für den modularen Monolith |
+| [`docs/adr/ADR-002-postgres-redis.md`](docs/adr/ADR-002-postgres-redis.md) | ADR zur Auswahl von PostgreSQL und Redis |
 | [`docs/ai-usage.md`](docs/ai-usage.md) | KI-Anwendungen, ausgewählte Prompts und Ergebnisse, kritische Bewertung, Reflexion |
 
 ## Team
