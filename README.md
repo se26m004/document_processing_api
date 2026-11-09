@@ -62,4 +62,6 @@ Technologieentscheidungen (Sprache, Framework, LLM-Anbieter) sind bewusst **noch
 
 ## Team
 
-Trajkoski Daniel _(weitere Teammitglieder ergänzen)_
+Trajkoski Daniel
+Pranjic Tom
+Pramböck Victor
